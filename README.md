@@ -12,8 +12,7 @@ Is a 90% discount a great deal or a warning sign? This project analyzes over 1,0
 * **Text Analysis:** Word clouds revealed that high-discount products often suffer from "poor build quality."
 
 ## Visualizations
-![Correlation Plot](your_plot_name.png)
-![Word Cloud](your_wordcloud_name.png)
+![Correlation Plot](my_analysis_plot.png)
 
 ## Tools Used
 - Python (Pandas, Seaborn, Matplotlib, WordCloud)
