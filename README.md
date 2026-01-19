@@ -13,7 +13,7 @@ Is a 90% discount a great deal or a warning sign? This project analyzes over 1,0
 
 ## Visualizations
 ![Correlation Plot](my_analysis_plot.png)
-![Relationship Between Price and Rating](relationship_b_prince_and_rating.png)
+![Relationship Between Price and Rating](price_and_rating.png)
 ![Relationship Between Price and Rating](dicount_trap.png)
 
 
